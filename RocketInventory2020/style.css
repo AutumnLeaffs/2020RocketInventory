@@ -1,0 +1,117 @@
+#header{
+  background-color: black;
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  margin-top: 0px;
+  text-align: center;
+  table-layout: auto;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  color: white;
+  a {color: white;}
+  opacity: 0.4;
+}
+#signup{
+  background-color: white;
+}
+a {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+a:link {
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border-bottom: 0
+}
+a:visited {
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    border-bottom: 0
+}
+a:hover {
+    color: white;
+    border: 1px solid white;
+    margin: 0;
+    padding: 0;
+
+}
+
+.itemButton{
+
+
+}
+
+
+
+
+
+html, body{
+   padding: 0;
+   margin: 0;
+}
+
+html, h1{
+   padding: 0;
+   margin: 0;
+}
+
+html, p{
+   padding: 0;
+   margin: 0;
+}
+#title{
+    color:#32DCFF;
+    font-family: futura, fantasy, sans-serif;
+    text-align: center;
+    margin: 0px;
+    /*padding: 200px 10px 10px 10px;*/
+
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+
+#logText{
+  color: white;
+}
+
+#content{
+    padding: 0px;
+    margin: 0;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: auto;
+    font-weight: bold;
+    font-family: Georgia, serif;
+    }
+
+#footer{
+    clear: both;
+    color:white;
+    text-align: center;
+}
+
+#login{
+  background-color: black;
+  box-shadow: 10px 10px 10px black;
+}
+.selected{
+  font-style: bold;
+}
+
+ a.currentpage{
+  color: orange;
+}
