@@ -1,4 +1,7 @@
 # 2020RocketInventory
 
-Coding project completed as my IB CAS project. Completed as a group with two other high school students. Code is uncommented and disorganized due to the fact
-that we taught ourselves HTML, CSS, SQL, and Javascript as we were writting this code. 
+Self-taught web development to build an online inventory manager for in-game Rocket League
+items. Created an account system to facilitate trading between users and personal inventory
+management. The project has 3000+ items organized into respective categories and rarities based on item
+type. The homepage has dynamic visuals to ensure a clean and distinct user experience, changing based on login status.
+
